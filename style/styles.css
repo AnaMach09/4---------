@@ -1,0 +1,175 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+header{
+    padding: 50px;
+    background-color: #C4C4C4;
+    
+
+}
+a{
+    color: black
+}
+
+header li{
+    float: left;
+    padding: 20px 20px;
+    
+    
+    
+    }
+    header ul li{
+        color: black;
+        padding: 0px 10px;
+        font-size: 18px;
+        text-transform: uppercase;
+        
+    }
+   
+
+    .suratebi{
+        background-color: #3D3D3D
+        ; height: 400px;
+        width: 1440px;
+        
+        overflow: hidden;
+        
+    }
+    .suratebi img{
+        width: 100%;
+        margin-top: -130px;
+        
+    }
+    .kvadrati{
+        width: 380px;
+        height: 280px;
+        float: left;
+        background-color: #FF9900;
+        
+        
+    }
+    .meore{
+        background-color: #FFC700;
+        
+    }
+.mesame{
+    background-color: #FFE600;
+    }
+    .kvadrati{
+        margin-top: 50px;
+        }
+        .pirveli{
+            margin-left: 100px;
+        }
+        .kvadrati{
+            margin-bottom: 200px;
+            
+        }
+        .k{
+            width: 380px;
+            height: 170px;
+            background-color: #ffffff;
+            }
+
+.suratebi1{
+    width: 380px;
+    height: 170px;
+    overflow: hidden;
+
+}
+
+
+.suratebi1 img{
+    width: 100%;
+    margin-top: -70px;
+
+}
+
+ 
+        
+.text2{
+    width: 100%;
+    height: 110px;
+    clear: both;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+p.text4{
+    opacity: 0.5;
+   padding-top: 25px;
+}
+footer p i{
+    clear: both;
+    float: inline-start;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 10px;
+}
+.ppr{
+    opacity: 0.5;
+    margin: 10px 50px;
+}
+.pm{
+    background-color: #FF9900;
+    width:95% ;
+    height:741px
+     ;
+     margin: 20px 35px;
+     
+}
+.pk{
+   background-color: #979591;
+    height: 200px;
+    width: 33.33%;
+    
+    float: left;
+   }
+    .img{
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+        }
+    .img img{
+        width:100% ;
+        }
+.siaxle{
+padding: 60px 0;
+}
+    .lora{
+        margin: 250px 20px;
+        }
+        .new1{
+            background-color: #FFC700;
+            width:95% ;
+            height:741px
+             ;
+             margin: 20px 35px;
+        }
+        .n12{
+            background-color: #979591;
+            height: 200px;
+            width: 33.33%;
+            
+            float: left;
+        }
+        .f1{
+            background-color: #FFE600;
+            width:95% ;
+            height:741px
+             ;
+             margin: 20px 35px;
+        }
+        .f12{
+            background-color: #979591;
+            height: 200px;
+            width: 33.33%;
+            
+            float: left;
+        }
